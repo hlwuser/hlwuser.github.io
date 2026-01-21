@@ -86,7 +86,7 @@ export default function ProjectsPage() {
           <a href="#contact" className="hover:underline">Contact</a>
         </div>
         <div className="max-w-4xl mx-auto text-center mt-6 md:mt-8 text-xs font-semibold text-muted-foreground">
-          © 2026 Mayank. All rights reserved.
+          © 2026 Asish. All rights reserved.
         </div>
       </footer>
     </main>
